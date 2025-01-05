@@ -50,74 +50,59 @@
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-17" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;陆&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-160" y="380" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-19" value="&lt;li&gt;&lt;strong&gt;角色信息&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;查看角色信息&lt;/li&gt;&lt;li&gt;修改角色信息&lt;/li&gt;&lt;li&gt;分配权限给角色&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;用户信息&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;查看用户信息&lt;/li&gt;&lt;li&gt;修改用户信息&lt;/li&gt;&lt;li&gt;分配角色给用户&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;权限信息&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;查看权限列表&lt;/li&gt;&lt;li&gt;添加新权限&lt;/li&gt;&lt;li&gt;删除权限&lt;/li&gt;&lt;li&gt;修改权限信息&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="365" width="160" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-62">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-283.5" y="970" as="sourcePoint" />
+            <mxPoint x="-270" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-60" target="DOAJAbYyy1WLWtL5gkmH-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-60" target="DOAJAbYyy1WLWtL5gkmH-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-283.5" y="970" as="sourcePoint" />
+            <mxPoint x="-270" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-60" value="权限管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-333.5" y="890" width="100" height="40" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-60" value="组信息管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="890" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-61" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-343.5" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-61" value="修改组信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-62" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;登&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;陆&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-417" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-62" value="&lt;div style=&quot;&quot;&gt;查看组信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-63" value="日&lt;div&gt;志&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-273.5" y="1010" width="50" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-64" value="新&lt;div&gt;闻&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-203.5" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-64" value="分配权限给组" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="970" as="sourcePoint" />
+            <mxPoint x="270" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-69" target="DOAJAbYyy1WLWtL5gkmH-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-69" target="DOAJAbYyy1WLWtL5gkmH-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="970" as="sourcePoint" />
+            <mxPoint x="270" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-69" value="权限管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="890" width="100" height="40" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-69" value="用户信息管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="890" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-70" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-70" value="修改用户信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-71" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;登&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;陆&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-133.5" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-71" value="&lt;div style=&quot;&quot;&gt;查看用户信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-72" value="日&lt;div&gt;志&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1010" width="50" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-73" value="新&lt;div&gt;闻&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-73" value="分配角色给用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283.25" y="970" as="sourcePoint" />
+            <mxPoint x="1.75" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-78" target="DOAJAbYyy1WLWtL5gkmH-79">
@@ -128,31 +113,31 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-82">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283.25" y="970" as="sourcePoint" />
+            <mxPoint x="1.75" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-78" value="权限管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="233.25" y="890" width="100" height="40" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-78" value="权限信息管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="890" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-79" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="223.25" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-79" value="添加新权限" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-58.25" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-80" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;登&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;陆&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="149.75" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-80" value="&lt;div style=&quot;&quot;&gt;查看权限列表&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-131.75" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-81" value="日&lt;div&gt;志&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="293.25" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-81" value="删除权限" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="11.75" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-82" value="新&lt;div&gt;闻&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="363.25" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-82" value="修改权限信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="81.75" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-83" target="DOAJAbYyy1WLWtL5gkmH-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-83" target="DOAJAbYyy1WLWtL5gkmH-69">
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-83" target="DOAJAbYyy1WLWtL5gkmH-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-83" target="DOAJAbYyy1WLWtL5gkmH-78">
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-87" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-83" target="DOAJAbYyy1WLWtL5gkmH-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-83" value="权限管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
