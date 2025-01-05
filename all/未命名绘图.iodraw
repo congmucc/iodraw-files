@@ -1,23 +1,86 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
   <diagram id="tNQZs0woNMsNForhL408" name="第 1 页">
-    <mxGraphModel dx="931" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MVkgSLdIisD53_m7Y8PK-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-2">
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-1" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;用户表&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="280" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-2" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;用户密码&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-9" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;最后登陆时间&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-11" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;是否为超级用户&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-12" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;用户名&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-13" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;最新名字&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-14" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;用户邮箱&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="300" as="sourcePoint" />
+            <mxPoint x="220" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="230" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-20" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;是否为员工用户&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-23" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-25" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;初始名字&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MVkgSLdIisD53_m7Y8PK-1" target="MVkgSLdIisD53_m7Y8PK-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
