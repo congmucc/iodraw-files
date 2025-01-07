@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="_Iga_zfzMakfGa9zRAI4-14">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="_Iga_zfzMakfGa9zRAI4-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="超级管理员" id="_Iga_zfzMakfGa9zRAI4-8">
+        <object label="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="_Iga_zfzMakfGa9zRAI4-8">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBorderColor=none;html=1;" vertex="1" parent="1">
             <mxGeometry x="80" y="100" width="30" height="60" as="geometry" />
           </mxCell>
