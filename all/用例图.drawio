@@ -15,7 +15,7 @@
             <mxGeometry x="80" y="100" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" target="_Iga_zfzMakfGa9zRAI4-14" edge="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" target="M4vis54UrrYnqnbrriGl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lPRFrRNjKn7Ll8QfIwgm-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" edge="1" target="_Iga_zfzMakfGa9zRAI4-38">
@@ -41,16 +41,16 @@
             <mxPoint x="646" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-14" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-14" value="用户权限管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="314" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-17" value="用户登陆" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-17" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-18" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-18" value="分配用户组" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="395" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-19" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-19" value="分配用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-20" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -109,6 +109,48 @@
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" parent="1" vertex="1">
           <mxGeometry x="458" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M4vis54UrrYnqnbrriGl-5" target="M4vis54UrrYnqnbrriGl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="1" source="M4vis54UrrYnqnbrriGl-5" target="M4vis54UrrYnqnbrriGl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M4vis54UrrYnqnbrriGl-5" target="M4vis54UrrYnqnbrriGl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M4vis54UrrYnqnbrriGl-5" target="M4vis54UrrYnqnbrriGl-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="720" as="sourcePoint" />
+            <mxPoint x="652" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-5" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-6" value="用户登陆" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="606" y="570" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-7" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="606" y="625" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-8" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="606" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-9" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="606" y="735" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="456" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
+          <mxGeometry x="466" y="720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="486" y="680" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4vis54UrrYnqnbrriGl-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" vertex="1" parent="1">
+          <mxGeometry x="476" y="640" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
