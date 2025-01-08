@@ -206,7 +206,7 @@
         <mxCell id="M4vis54UrrYnqnbrriGl-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="468" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M4vis54UrrYnqnbrriGl-31" value="摘要分析" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="M4vis54UrrYnqnbrriGl-31" value="手动标柱" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="584" y="470" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Iga_zfzMakfGa9zRAI4-38" target="M4vis54UrrYnqnbrriGl-31">
