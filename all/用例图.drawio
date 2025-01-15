@@ -253,36 +253,36 @@
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="44BCT_Au62cUfSM1vnff-5" target="44BCT_Au62cUfSM1vnff-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="-300" as="sourcePoint" />
-            <mxPoint x="610" y="-250" as="targetPoint" />
+            <mxPoint x="434" y="-190" as="sourcePoint" />
+            <mxPoint x="620" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-5" value="新闻管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="278" y="-340" width="100" height="40" as="geometry" />
+          <mxGeometry x="288" y="-230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-6" value="删除新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="564" y="-450" width="160" height="40" as="geometry" />
+          <mxGeometry x="574" y="-340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-7" value="增加新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="564" y="-395" width="160" height="40" as="geometry" />
+          <mxGeometry x="574" y="-285" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-8" value="修改新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="564" y="-340" width="160" height="40" as="geometry" />
+          <mxGeometry x="574" y="-230" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-9" value="查看所有新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="564" y="-285" width="160" height="40" as="geometry" />
+          <mxGeometry x="574" y="-175" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="414" y="-400" width="90" height="30" as="geometry" />
+          <mxGeometry x="424" y="-290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
-          <mxGeometry x="424" y="-300" width="90" height="30" as="geometry" />
+          <mxGeometry x="434" y="-190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="444" y="-340" width="90" height="30" as="geometry" />
+          <mxGeometry x="454" y="-230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" vertex="1" parent="1">
-          <mxGeometry x="434" y="-380" width="90" height="30" as="geometry" />
+          <mxGeometry x="444" y="-270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-16" value="编辑用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="574" y="-20" width="160" height="40" as="geometry" />
