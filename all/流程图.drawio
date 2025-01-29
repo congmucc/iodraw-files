@@ -117,7 +117,7 @@
             <mxPoint x="589.74" y="-590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzJQOZDA2m0IZSeO_Y6F-67" value="是否爬取完毕" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="LzJQOZDA2m0IZSeO_Y6F-67" value="数据是否都处理完毕" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="710.28" y="950" width="199.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LzJQOZDA2m0IZSeO_Y6F-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzJQOZDA2m0IZSeO_Y6F-68" target="LzJQOZDA2m0IZSeO_Y6F-73">
@@ -126,8 +126,11 @@
         <mxCell id="LzJQOZDA2m0IZSeO_Y6F-68" value="使用TextRank基础公式进行计算权重" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="739.5799999999999" y="650" width="141.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LzJQOZDA2m0IZSeO_Y6F-73" value="使用TextRank基础公式进行计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="739.5799999999999" y="820" width="141.33" height="80" as="geometry" />
+        <mxCell id="LzJQOZDA2m0IZSeO_Y6F-73" value="根据计算得分对所有词进行输出。" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="739.5799999999999" y="800" width="141.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LzJQOZDA2m0IZSeO_Y6F-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LzJQOZDA2m0IZSeO_Y6F-73" target="LzJQOZDA2m0IZSeO_Y6F-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
