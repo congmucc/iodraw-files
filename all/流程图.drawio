@@ -327,6 +327,21 @@
             <mxPoint x="2329.995" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SIV2kzbjCIx-U6j8kf4C-70" value="爬取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-22" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIV2kzbjCIx-U6j8kf4C-71" value="关键词分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-12" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIV2kzbjCIx-U6j8kf4C-72" value="摘要分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="-202" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIV2kzbjCIx-U6j8kf4C-73" value="词云生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1875" y="-202" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIV2kzbjCIx-U6j8kf4C-74" value="贝叶斯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="-202" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
