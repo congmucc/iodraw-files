@@ -403,7 +403,7 @@
         <mxCell id="20AAbadDwqx4c7N0KBn9-70" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2768" y="-196" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-QKsx01esFGBKb9Roovy-54" value="通过开始时间向指定URL发起请求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;shadow=0;" vertex="1" parent="1">
+        <mxCell id="-QKsx01esFGBKb9Roovy-54" value="通过开始时间向指定URL发起请求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-159.02000000000004" y="178" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
