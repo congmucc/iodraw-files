@@ -1,31 +1,31 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.1.0">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1408" dy="1345" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="469" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;strokeColor=default;fillColor=default;fontSize=15;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="140.98" y="116" width="240" height="50" as="geometry" />
+          <mxGeometry x="142" y="120" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;" parent="1" source="2" target="wHxs4oyfYH_jLCG5n1om-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="261.8684210526317" y="182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-70" target="-QKsx01esFGBKb9Roovy-54" edge="1">
+        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-70" target="wHxs4oyfYH_jLCG5n1om-55" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
             <mxPoint x="104" y="792" as="sourcePoint" />
-            <mxPoint x="81.00000000000003" y="235" as="targetPoint" />
+            <mxPoint x="140.98000000000002" y="253" as="targetPoint" />
             <Array as="points">
               <mxPoint x="31" y="557" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHxs4oyfYH_jLCG5n1om-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-55" target="wHxs4oyfYH_jLCG5n1om-56" edge="1">
+        <mxCell id="wHxs4oyfYH_jLCG5n1om-58" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-55" target="wHxs4oyfYH_jLCG5n1om-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-55" value="通过开始时间向指定URL发起请求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="140.97999999999996" y="211" width="240" height="60" as="geometry" />
+          <mxGeometry x="142" y="210" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-56" target="wHxs4oyfYH_jLCG5n1om-64" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -33,22 +33,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-56" value="返回指定URL的response对象" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="141.23999999999998" y="316" width="240" height="60" as="geometry" />
+          <mxGeometry x="142" y="310" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-64" target="wHxs4oyfYH_jLCG5n1om-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-64" value="解析response对象，并进行数据处理获取新闻信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="140.97999999999996" y="423" width="240" height="60" as="geometry" />
+          <mxGeometry x="141.99999999999997" y="410" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-66" target="wHxs4oyfYH_jLCG5n1om-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-66" value="解析response对象，并进行数据处理获取指定格式的新闻信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="141.23999999999992" y="525" width="240" height="60" as="geometry" />
+          <mxGeometry x="141.99999999999991" y="520" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-68" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;rounded=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;resizable=1;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="140.98000000000002" y="805" width="240" height="60" as="geometry" />
+          <mxGeometry x="142.00000000000003" y="805" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitDx=0;exitDy=0;rounded=1;" parent="1" source="wHxs4oyfYH_jLCG5n1om-70" target="wHxs4oyfYH_jLCG5n1om-68" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -57,10 +57,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-70" value="是否爬取完毕" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;rounded=1;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="140.98000000000002" y="715" width="240" height="60" as="geometry" />
+          <mxGeometry x="142.00000000000003" y="715" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-71" value="存储到Sqlite数据库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="140.97999999999993" y="619" width="240" height="60" as="geometry" />
+          <mxGeometry x="141.99999999999994" y="619" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="1" source="wHxs4oyfYH_jLCG5n1om-71" target="wHxs4oyfYH_jLCG5n1om-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -405,9 +405,6 @@
         </mxCell>
         <mxCell id="20AAbadDwqx4c7N0KBn9-70" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3035.07" y="-3" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-QKsx01esFGBKb9Roovy-54" value="通过开始时间向指定URL发起请求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="140.97999999999996" y="211" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
