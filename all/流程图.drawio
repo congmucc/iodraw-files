@@ -401,14 +401,14 @@
         <mxCell id="20AAbadDwqx4c7N0KBn9-70" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3035.07" y="-3" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-55" value="&lt;span style=&quot;text-align: start; font-size: 12pt; line-height: 24px; font-family: SimHei; letter-spacing: -0.65pt;&quot; lang=&quot;ZH-CN&quot;&gt;新闻数据分析与标注系统&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="461" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-57" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-1076" y="460" width="100" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-59" value="用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-296" y="461" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-60" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-807" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-61" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-689" y="516" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
