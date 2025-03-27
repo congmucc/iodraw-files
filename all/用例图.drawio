@@ -246,13 +246,13 @@
         <mxCell id="44BCT_Au62cUfSM1vnff-6" value="删除新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-343" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="44BCT_Au62cUfSM1vnff-7" value="增加新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="44BCT_Au62cUfSM1vnff-7" value="新增新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-288" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-8" value="修改新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-233" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="44BCT_Au62cUfSM1vnff-9" value="查看所有新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="44BCT_Au62cUfSM1vnff-9" value="查看新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-178" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" parent="1" vertex="1">
