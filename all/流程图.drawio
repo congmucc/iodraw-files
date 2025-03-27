@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.1.3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1862" dy="1658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2115" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
             <mxPoint x="909" y="302" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jha9g-4mbw-mB7nA6V5e-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;labelBackgroundColor=default;endArrow=classic;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="LzJQOZDA2m0IZSeO_Y6F-62" target="LzJQOZDA2m0IZSeO_Y6F-64">
+        <mxCell id="Jha9g-4mbw-mB7nA6V5e-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;labelBackgroundColor=default;endArrow=classic;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" source="LzJQOZDA2m0IZSeO_Y6F-62" target="LzJQOZDA2m0IZSeO_Y6F-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzJQOZDA2m0IZSeO_Y6F-62" value="使用jieba分词进行对文本进行分词" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
@@ -400,6 +400,15 @@
         </mxCell>
         <mxCell id="20AAbadDwqx4c7N0KBn9-70" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3035.07" y="-3" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-55" value="&lt;span style=&quot;text-align: start; font-size: 12pt; line-height: 24px; font-family: SimHei; letter-spacing: -0.65pt;&quot; lang=&quot;ZH-CN&quot;&gt;新闻数据分析与标注系统&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="461" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-57" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-1076" y="460" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-59" value="用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="461" width="100" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
