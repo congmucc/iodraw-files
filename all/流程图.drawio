@@ -451,7 +451,7 @@
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-67" value="数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1052" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-68" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-68" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-759" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-69" target="1bzfQ1Kdr9sJ2p-31-mI-85">
