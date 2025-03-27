@@ -72,13 +72,13 @@
         <mxCell id="_Iga_zfzMakfGa9zRAI4-17" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-123" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-18" value="分配用户组" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-18" value="分配用户到组" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-68" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-19" value="分配用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="77" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-20" value="查询所有用户信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-20" value="查看用户信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="132" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" parent="1" vertex="1">
@@ -267,7 +267,7 @@
         <mxCell id="44BCT_Au62cUfSM1vnff-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" parent="1" vertex="1">
           <mxGeometry x="587" y="-273" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="44BCT_Au62cUfSM1vnff-16" value="编辑用户组" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="44BCT_Au62cUfSM1vnff-16" value="修改用户到组" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="-23" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-17" value="编辑用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
