@@ -415,43 +415,57 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-65" value="数据接收模块&lt;br&gt;（爬虫）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-65" target="1bzfQ1Kdr9sJ2p-31-mI-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-697" y="559" />
+              <mxPoint x="-992" y="559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-65" target="1bzfQ1Kdr9sJ2p-31-mI-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-65" target="1bzfQ1Kdr9sJ2p-31-mI-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-697" y="559" />
+              <mxPoint x="-393" y="559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-65" value="新闻数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-757" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-78" value="原始" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-66" target="1bzfQ1Kdr9sJ2p-31-mI-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-66" value="预处理模块&lt;div&gt;（清洗）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-66" value="预处理&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（清洗）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-451" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-67" value="新闻数据库&lt;div&gt;（SQLite）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-67" value="数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1052" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-68" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-831" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="-757" y="959" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-80" value="输入" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-69" target="1bzfQ1Kdr9sJ2p-31-mI-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-69" value="主题提取模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-69" value="摘要分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-453" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-70" target="1bzfQ1Kdr9sJ2p-31-mI-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-70" value="分析结果库&lt;br&gt;（分析结果存储）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-70" value="主题提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1052" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-71" target="1bzfQ1Kdr9sJ2p-31-mI-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-73" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bzfQ1Kdr9sJ2p-31-mI-72">
-          <mxGeometry x="0.141" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-71" value="情感分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-71" value="关键词提取模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-757" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-85" value="分析结果库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-451" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-86" value="词性标注模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-87" value="情感分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-755" y="785" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
