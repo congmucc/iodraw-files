@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.1.3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2217" dy="1051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2725" dy="1377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,11 +415,6 @@
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-65" target="1bzfQ1Kdr9sJ2p-31-mI-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-77" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bzfQ1Kdr9sJ2p-31-mI-76">
-          <mxGeometry x="0.0171" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-65" target="1bzfQ1Kdr9sJ2p-31-mI-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -442,7 +437,7 @@
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-65" value="新闻数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-757" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-78" value="原始" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-66" target="1bzfQ1Kdr9sJ2p-31-mI-65">
+        <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1bzfQ1Kdr9sJ2p-31-mI-66" target="1bzfQ1Kdr9sJ2p-31-mI-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-66" value="预处理&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（清洗）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -490,7 +485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1bzfQ1Kdr9sJ2p-31-mI-95" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="413" width="802" height="457" as="geometry" />
+          <mxGeometry x="-1100" y="420" width="802" height="457" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
