@@ -747,7 +747,7 @@
         <mxCell id="CRgrjg54GMPtcsTOh2zf-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="CRgrjg54GMPtcsTOh2zf-85" target="MVkgSLdIisD53_m7Y8PK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CRgrjg54GMPtcsTOh2zf-85" value="赋予" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CRgrjg54GMPtcsTOh2zf-85" value="操作" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-695" y="743" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CRgrjg54GMPtcsTOh2zf-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CRgrjg54GMPtcsTOh2zf-86" target="CRgrjg54GMPtcsTOh2zf-70">
