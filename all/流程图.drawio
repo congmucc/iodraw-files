@@ -163,7 +163,7 @@
             <mxPoint x="1454.245" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWu84GvnVnbfeA6_wP9a-62" value="通过BM25算法计算出每个句子与其他所有句子的相似度" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="IWu84GvnVnbfeA6_wP9a-62" value="通过BM25算法计算出每个句子与其它所有句子的相似度" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1380" y="440" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IWu84GvnVnbfeA6_wP9a-65" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" parent="1" vertex="1">
