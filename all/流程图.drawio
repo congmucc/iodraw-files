@@ -550,10 +550,10 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-102" value="标注信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1031" y="1468" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kGU_nO2wC30aziHoJglv-104" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.207;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.169;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-99" target="kGU_nO2wC30aziHoJglv-93">
+        <mxCell id="kGU_nO2wC30aziHoJglv-104" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-846" y="1523" as="sourcePoint" />
-            <mxPoint x="-848" y="1429" as="targetPoint" />
+            <mxPoint x="-849" y="1520" as="sourcePoint" />
+            <mxPoint x="-851" y="1425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-105" value="新闻信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
