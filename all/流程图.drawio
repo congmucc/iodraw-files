@@ -535,7 +535,7 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-98" value="新闻信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-839" y="1340" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kGU_nO2wC30aziHoJglv-99" value="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="kGU_nO2wC30aziHoJglv-99" value="2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-872" y="1523" width="113" height="75" as="geometry" />
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-100" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;标注&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kGU_nO2wC30aziHoJglv-99">
