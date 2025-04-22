@@ -497,16 +497,14 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-73" target="kGU_nO2wC30aziHoJglv-94">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-904" y="1272" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-950" y="1441" />
+              <mxPoint x="-950" y="1265" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-73" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1149" y="1397" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kGU_nO2wC30aziHoJglv-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.29;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-95" target="kGU_nO2wC30aziHoJglv-90">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-590.625" y="1379.625" as="targetPoint" />
-            <mxPoint x="-744" y="1272" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-86" value="进行分析标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1046" y="1297" width="90" height="26" as="geometry" />
@@ -542,7 +540,12 @@
           <mxGeometry y="20" width="113" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-73" target="kGU_nO2wC30aziHoJglv-100">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-950" y="1409" />
+              <mxPoint x="-950" y="1576" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-102" value="标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1023" y="1502" width="42" height="26" as="geometry" />
@@ -556,14 +559,17 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-105" value="新闻信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-842" y="1464" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kGU_nO2wC30aziHoJglv-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-100" target="kGU_nO2wC30aziHoJglv-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-107" value="分析标注信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-675" y="1326" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-108" value="标注更新信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-675" y="1468" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kGU_nO2wC30aziHoJglv-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-95" target="kGU_nO2wC30aziHoJglv-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGU_nO2wC30aziHoJglv-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-100" target="kGU_nO2wC30aziHoJglv-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
