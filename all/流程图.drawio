@@ -506,7 +506,7 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-73" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1149" y="1397" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGU_nO2wC30aziHoJglv-86" value="分析标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kGU_nO2wC30aziHoJglv-86" value="新闻操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1025" y="1366" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-90" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
