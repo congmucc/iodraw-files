@@ -544,7 +544,7 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-102" value="标注信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1031" y="1468" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kGU_nO2wC30aziHoJglv-105" value="新闻信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kGU_nO2wC30aziHoJglv-105" value="标注信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-842" y="1464" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kGU_nO2wC30aziHoJglv-107" value="分析标注信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
