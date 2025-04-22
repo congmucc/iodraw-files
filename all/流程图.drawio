@@ -498,7 +498,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-904" y="1272" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-950" y="1441" />
+              <mxPoint x="-950" y="1410" />
               <mxPoint x="-950" y="1265" />
             </Array>
           </mxGeometry>
@@ -542,7 +542,7 @@
         <mxCell id="kGU_nO2wC30aziHoJglv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kGU_nO2wC30aziHoJglv-73" target="kGU_nO2wC30aziHoJglv-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-950" y="1409" />
+              <mxPoint x="-950" y="1443" />
               <mxPoint x="-950" y="1576" />
             </Array>
           </mxGeometry>
