@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3350" dy="1582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3203" dy="1480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -730,7 +730,7 @@
         <mxCell id="NGvjjf1BjMnZhD-Iy17D-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-78" target="NGvjjf1BjMnZhD-Iy17D-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGvjjf1BjMnZhD-Iy17D-78" value="获取分词的数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-78" value="输入训练集" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3385" y="-919" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NGvjjf1BjMnZhD-Iy17D-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-80" target="NGvjjf1BjMnZhD-Iy17D-82">
@@ -753,7 +753,7 @@
         <mxCell id="NGvjjf1BjMnZhD-Iy17D-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-87" target="NGvjjf1BjMnZhD-Iy17D-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGvjjf1BjMnZhD-Iy17D-87" value="文本预处理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-87" value="&lt;font&gt;语料预处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3385" y="-809" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NGvjjf1BjMnZhD-Iy17D-88" value="模型存储与使用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
