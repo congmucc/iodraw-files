@@ -306,7 +306,7 @@
         <mxCell id="SIV2kzbjCIx-U6j8kf4C-67" value="文本预处理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2500" y="332" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIV2kzbjCIx-U6j8kf4C-68" value="使用训练好的贝叶斯模型进行分类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="SIV2kzbjCIx-U6j8kf4C-68" value="使用贝叶斯模型进行分类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2500" y="554" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIV2kzbjCIx-U6j8kf4C-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" source="SIV2kzbjCIx-U6j8kf4C-68" target="SIV2kzbjCIx-U6j8kf4C-65" edge="1">
