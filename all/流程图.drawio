@@ -641,7 +641,7 @@
         <mxCell id="XTIQsdw-NxHprP_zqBdj-78" value="新闻信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2189" y="1556.01" width="98" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="XTIQsdw-NxHprP_zqBdj-80" value="1" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;fontSize=20;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="XTIQsdw-NxHprP_zqBdj-80" value="3" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;fontSize=20;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-2106" y="1595" width="137" height="104" as="geometry" />
         </mxCell>
         <mxCell id="XTIQsdw-NxHprP_zqBdj-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;新闻爬取&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;strokeWidth=3;" vertex="1" parent="XTIQsdw-NxHprP_zqBdj-80">
