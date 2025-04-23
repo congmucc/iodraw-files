@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="tNIIOWR_oVBMtGQojX32">
-    <mxGraphModel dx="751" dy="1217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="1633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="_Iga_zfzMakfGa9zRAI4-14" edge="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="_Iga_zfzMakfGa9zRAI4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPRFrRNjKn7Ll8QfIwgm-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="_Iga_zfzMakfGa9zRAI4-38" edge="1">
+        <mxCell id="lPRFrRNjKn7Ll8QfIwgm-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="_Iga_zfzMakfGa9zRAI4-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M4vis54UrrYnqnbrriGl-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="M4vis54UrrYnqnbrriGl-5" edge="1">
+        <mxCell id="M4vis54UrrYnqnbrriGl-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="M4vis54UrrYnqnbrriGl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="M4vis54UrrYnqnbrriGl-18" edge="1">
@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="_Iga_zfzMakfGa9zRAI4-8">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBorderColor=none;html=1;" parent="1" vertex="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBorderColor=none;html=1;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="80" y="100" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" target="M4vis54UrrYnqnbrriGl-5" edge="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" target="M4vis54UrrYnqnbrriGl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPRFrRNjKn7Ll8QfIwgm-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" target="_Iga_zfzMakfGa9zRAI4-38" edge="1">
+        <mxCell id="lPRFrRNjKn7Ll8QfIwgm-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="_Iga_zfzMakfGa9zRAI4-10" target="_Iga_zfzMakfGa9zRAI4-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Iga_zfzMakfGa9zRAI4-10" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="_Iga_zfzMakfGa9zRAI4-10" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="620" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="_Iga_zfzMakfGa9zRAI4-14" target="_Iga_zfzMakfGa9zRAI4-17" edge="1">
