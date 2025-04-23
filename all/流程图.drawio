@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3934" dy="1989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3350" dy="1582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,7 +364,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="20AAbadDwqx4c7N0KBn9-62" value="根据标注器中的算法进行数据标注" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="3237" y="540" width="240" height="60" as="geometry" />
+          <mxGeometry x="3022" y="534" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="20AAbadDwqx4c7N0KBn9-63" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="3022" y="848" width="240" height="60" as="geometry" />
@@ -715,6 +715,54 @@
         </mxCell>
         <mxCell id="NGvjjf1BjMnZhD-Iy17D-71" value="生成贝叶斯模型" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2639" y="-413" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3254" y="-1045" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-74" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-1019" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-75" style="fontStyle=1;strokeColor=default;strokeWidth=3;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-74" target="NGvjjf1BjMnZhD-Iy17D-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3460.8684210526317" y="-919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-78" target="NGvjjf1BjMnZhD-Iy17D-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-78" value="获取分词的数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-919" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-80" target="NGvjjf1BjMnZhD-Iy17D-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3461.25" y="-504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-80" value="进行数据训练" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-699" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-82" target="NGvjjf1BjMnZhD-Iy17D-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-82" value="根据标注器中的算法进行数据标注" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-605" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-83" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-393" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-87" target="NGvjjf1BjMnZhD-Iy17D-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-87" value="文本预处理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-809" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-88" value="模型存储与使用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3385" y="-497" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvjjf1BjMnZhD-Iy17D-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="NGvjjf1BjMnZhD-Iy17D-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3505.000000000001" y="-394" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
