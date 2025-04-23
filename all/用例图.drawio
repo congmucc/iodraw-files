@@ -193,16 +193,16 @@
           <mxGeometry x="419" y="-532" width="128" height="46" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-19" value="查看日志" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="703" y="-586" width="160" height="40" as="geometry" />
+          <mxGeometry x="763" y="-587" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-22" value="删除日志" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="703" y="-528" width="160" height="40" as="geometry" />
+          <mxGeometry x="763" y="-532" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="541" y="-562" width="128" height="36" as="geometry" />
+          <mxGeometry x="567" y="-568" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="553" y="-505" width="128" height="36" as="geometry" />
+          <mxGeometry x="573" y="-507" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-27" value="分析摘要" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="707" y="135" width="160" height="40" as="geometry" />
@@ -247,28 +247,28 @@
           <mxGeometry x="418" y="-366" width="128" height="48" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-6" value="删除新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="701" y="-478" width="160" height="40" as="geometry" />
+          <mxGeometry x="761" y="-480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-7" value="新增新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="701" y="-423" width="160" height="40" as="geometry" />
+          <mxGeometry x="763" y="-423" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-8" value="修改新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="701" y="-368" width="160" height="40" as="geometry" />
+          <mxGeometry x="763" y="-370" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-9" value="查看新闻" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="701" y="-313" width="160" height="40" as="geometry" />
+          <mxGeometry x="766" y="-316" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="549" y="-440" width="128" height="36" as="geometry" />
+          <mxGeometry x="565" y="-440" width="128" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="44BCT_Au62cUfSM1vnff-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="549" y="-320" width="128" height="36" as="geometry" />
+        <mxCell id="44BCT_Au62cUfSM1vnff-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="577" y="-314" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="583" y="-349" width="128" height="36" as="geometry" />
+          <mxGeometry x="614" y="-352" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="579" y="-407" width="128" height="36" as="geometry" />
+          <mxGeometry x="606" y="-414" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-16" value="修改用户组" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="705" y="-155" width="160" height="40" as="geometry" />
