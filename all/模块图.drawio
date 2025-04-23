@@ -81,7 +81,7 @@
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-62" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-467" y="1008" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-64" value="分&lt;div&gt;配&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;&lt;div&gt;给&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-64" value="分&lt;div&gt;配&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-247" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-71" edge="1">
@@ -117,9 +117,6 @@
             <mxPoint x="1.75" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-78" target="DOAJAbYyy1WLWtL5gkmH-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-78" target="DOAJAbYyy1WLWtL5gkmH-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -130,9 +127,6 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-78" value="权限信息管理" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-70" y="890" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-79" value="添&lt;div&gt;加&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-58.25" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-80" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-131.75" y="1010" width="50" height="250" as="geometry" />
@@ -262,7 +256,7 @@
         <mxCell id="2Rs48mxPkC5bB08ID7a5-5" value="&lt;div&gt;新&lt;div&gt;闻&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="469" y="290" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="P7XNdEsVjHA1NqvzfbC5-3" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;&lt;div&gt;给&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="P7XNdEsVjHA1NqvzfbC5-3" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-317" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="P7XNdEsVjHA1NqvzfbC5-5" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;给&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;用&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;户&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
