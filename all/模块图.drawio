@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="wNZx7SyFyyRfFWTo70jK">
-    <mxGraphModel dx="3868" dy="1563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2734" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-103" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="360" as="sourcePoint" />
+            <mxPoint x="1139" y="356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-101" target="DOAJAbYyy1WLWtL5gkmH-102" edge="1">
@@ -179,23 +179,23 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-105" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="360" as="sourcePoint" />
+            <mxPoint x="1139" y="356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-101" value="新闻管理" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="980" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="1089" y="276" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-102" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;闻&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="940" y="400" width="50" height="250" as="geometry" />
+          <mxGeometry x="1049" y="396" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-103" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;闻&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="800" y="400" width="50" height="250" as="geometry" />
+          <mxGeometry x="909" y="396" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-104" value="新&lt;div&gt;增&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;闻&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="400" width="50" height="250" as="geometry" />
+          <mxGeometry x="1179" y="396" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-105" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;闻&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="400" width="50" height="250" as="geometry" />
+          <mxGeometry x="1309" y="396" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="tvbMSQ5SA4LCNX8znJJP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" target="tvbMSQ5SA4LCNX8znJJP-7" edge="1">
           <mxGeometry relative="1" as="geometry">
