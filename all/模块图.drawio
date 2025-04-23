@@ -47,7 +47,7 @@
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;fontStyle=1;endArrow=none;startFill=0;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-14" target="DOAJAbYyy1WLWtL5gkmH-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-14" value="登录管理" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-14" value="登录模块" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-250" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-15" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;后&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;台&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;登&lt;/span&gt;&lt;div&gt;录&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
