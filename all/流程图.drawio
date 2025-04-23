@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2958" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3707" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,22 +630,13 @@
             <mxPoint x="-1903" y="1695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTIQsdw-NxHprP_zqBdj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="XTIQsdw-NxHprP_zqBdj-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-2301" y="1668.38" />
-              <mxPoint x="-2301" y="1813.38" />
-            </Array>
-            <mxPoint x="-2223.113" y="1813.4560000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XTIQsdw-NxHprP_zqBdj-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=classic;endFill=1;" edge="1" parent="1" source="XTIQsdw-NxHprP_zqBdj-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2106" y="1655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XTIQsdw-NxHprP_zqBdj-76" value="新闻" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-2294" y="1624.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2292" y="1624.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XTIQsdw-NxHprP_zqBdj-78" value="新闻信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2189" y="1556.01" width="98" height="36" as="geometry" />
@@ -665,8 +656,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2187" y="1500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2302" y="1656" />
+              <mxPoint x="-2380" y="1642" />
+              <mxPoint x="-2302" y="1642" />
               <mxPoint x="-2302" y="1508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTIQsdw-NxHprP_zqBdj-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="XTIQsdw-NxHprP_zqBdj-56" target="XTIQsdw-NxHprP_zqBdj-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2302" y="1676" />
+              <mxPoint x="-2302" y="1824" />
             </Array>
           </mxGeometry>
         </mxCell>
