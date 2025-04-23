@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="wNZx7SyFyyRfFWTo70jK">
-    <mxGraphModel dx="2734" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2667" dy="735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-62" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-270" y="970" as="sourcePoint" />
+            <mxPoint x="-323" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-60" target="DOAJAbYyy1WLWtL5gkmH-61" edge="1">
@@ -66,24 +66,27 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-270" y="970" as="sourcePoint" />
+            <mxPoint x="-323" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P7XNdEsVjHA1NqvzfbC5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-60" target="P7XNdEsVjHA1NqvzfbC5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-60" value="组信息管理" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="890" width="140" height="40" as="geometry" />
+          <mxGeometry x="-393" y="890" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-61" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-295" y="1010" width="50" height="250" as="geometry" />
+          <mxGeometry x="-399" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-62" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="1010" width="50" height="250" as="geometry" />
+          <mxGeometry x="-467" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-64" value="分&lt;div&gt;配&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;&lt;div&gt;给&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="1010" width="50" height="250" as="geometry" />
+          <mxGeometry x="-253" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-71" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="970" as="sourcePoint" />
+            <mxPoint x="311" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-69" target="DOAJAbYyy1WLWtL5gkmH-70" edge="1">
@@ -91,20 +94,20 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-73" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="970" as="sourcePoint" />
+            <mxPoint x="311" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-69" value="用户信息管理" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="200" y="890" width="140" height="40" as="geometry" />
+          <mxGeometry x="241" y="890" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-70" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="245" y="1010" width="50" height="250" as="geometry" />
+          <mxGeometry x="286" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-71" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="170" y="1010" width="50" height="250" as="geometry" />
+          <mxGeometry x="211" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-73" value="分&lt;div&gt;配&lt;/div&gt;&lt;div&gt;角&lt;/div&gt;&lt;div&gt;色&lt;/div&gt;&lt;div&gt;给&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1010" width="50" height="250" as="geometry" />
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-73" value="分&lt;div&gt;配&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;给&lt;/span&gt;&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="361" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-80" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -151,20 +154,20 @@
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-94" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="860" as="sourcePoint" />
+            <mxPoint x="880" y="866" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=20;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-92" target="DOAJAbYyy1WLWtL5gkmH-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-92" value="日志管理" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="630" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="830" y="786" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-93" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="777" y="900" width="50" height="250" as="geometry" />
+          <mxGeometry x="977" y="906" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-94" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="530" y="900" width="50" height="250" as="geometry" />
+          <mxGeometry x="730" y="906" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-103" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -255,6 +258,9 @@
         </mxCell>
         <mxCell id="2Rs48mxPkC5bB08ID7a5-5" value="&lt;div&gt;新&lt;div&gt;闻&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="469" y="290" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="P7XNdEsVjHA1NqvzfbC5-3" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;&lt;div&gt;给&lt;/div&gt;&lt;div&gt;组&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
