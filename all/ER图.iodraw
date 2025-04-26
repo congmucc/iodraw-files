@@ -928,6 +928,24 @@
             <mxPoint x="371" y="987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L4jfmmEoM8gYrbDoAJ-u-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeWidth=3;fontSize=20;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rh0L-LzDm1_McxM1x-nW-63" target="L4jfmmEoM8gYrbDoAJ-u-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-366" y="1117" as="sourcePoint" />
+            <mxPoint x="-401" y="1193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4jfmmEoM8gYrbDoAJ-u-28" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;用户ID&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-484" y="1184" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4jfmmEoM8gYrbDoAJ-u-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;endFill=0;shadow=0;strokeWidth=3;fontSize=20;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="L4jfmmEoM8gYrbDoAJ-u-30" source="rh0L-LzDm1_McxM1x-nW-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-367.9977472530965" y="1097.0393945462547" as="sourcePoint" />
+            <mxPoint x="-266.4" y="1193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4jfmmEoM8gYrbDoAJ-u-30" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;组ID&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-349.4" y="1184" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
