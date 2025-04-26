@@ -87,7 +87,7 @@
         <mxCell id="MVkgSLdIisD53_m7Y8PK-30" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;新闻&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-965" y="172.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MVkgSLdIisD53_m7Y8PK-31" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;新闻URL&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="MVkgSLdIisD53_m7Y8PK-31" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;链接&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-32" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;简介&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
