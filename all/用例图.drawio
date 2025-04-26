@@ -84,19 +84,19 @@
           <mxGeometry x="757" y="-203" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-19" value="分配用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="757" y="34" width="160" height="40" as="geometry" />
+          <mxGeometry x="757" y="43" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-20" value="修改用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="757" y="84" width="160" height="40" as="geometry" />
+          <mxGeometry x="755.5" y="105" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="579" y="-174" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=25;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="583" y="51" width="128" height="36" as="geometry" />
+          <mxGeometry x="573" y="62" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="611" y="22.5" width="128" height="36" as="geometry" />
+          <mxGeometry x="611" y="31" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_Iga_zfzMakfGa9zRAI4-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="616" y="-157" width="128" height="36" as="geometry" />
@@ -279,10 +279,10 @@
           <mxGeometry x="757" y="-151.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-17" value="编辑用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="757" y="-17.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="757.5" y="-9" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="44BCT_Au62cUfSM1vnff-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;dashed=1;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="621" y="-13.5" width="128" height="36" as="geometry" />
+        <mxCell id="44BCT_Au62cUfSM1vnff-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;dashed=1;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="626" y="-2" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="44BCT_Au62cUfSM1vnff-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="611" y="-126" width="128" height="36" as="geometry" />
@@ -291,7 +291,7 @@
           <mxGeometry x="757" y="-105" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e_7kDf2DJxPSbMTq2mUC-2" value="查看用户权限" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="757" y="-62" width="160" height="40" as="geometry" />
+          <mxGeometry x="757.5" y="-57" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e_7kDf2DJxPSbMTq2mUC-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" source="_Iga_zfzMakfGa9zRAI4-14" target="e_7kDf2DJxPSbMTq2mUC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
