@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-42" value="入库时间" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=1;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="120" width="100" height="40" as="geometry" />
+          <mxGeometry x="-637" y="117.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVkgSLdIisD53_m7Y8PK-43" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;媒体名称&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-850" y="-140" width="100" height="40" as="geometry" />
@@ -936,6 +936,15 @@
         </mxCell>
         <mxCell id="mQmwPMC_x4-4qSftOCjN-4" value="&lt;p style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px; white-space: pre;&quot;&gt;文档ID&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-1277" y="167.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQmwPMC_x4-4qSftOCjN-5" value="HTML内容" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=1;fontSize=20;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-643.5" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQmwPMC_x4-4qSftOCjN-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontSize=20;fontStyle=1;strokeWidth=3;" edge="1" parent="1" target="mQmwPMC_x4-4qSftOCjN-5" source="MVkgSLdIisD53_m7Y8PK-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-877.9999999999995" y="190" as="sourcePoint" />
+            <mxPoint x="-498.5" y="157.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
