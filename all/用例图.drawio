@@ -16,7 +16,7 @@
         <mxCell id="44BCT_Au62cUfSM1vnff-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="44BCT_Au62cUfSM1vnff-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKICXCh5Y2UCYJcvNA27-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="DKICXCh5Y2UCYJcvNA27-22">
+        <mxCell id="DKICXCh5Y2UCYJcvNA27-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="_Iga_zfzMakfGa9zRAI4-8" target="DKICXCh5Y2UCYJcvNA27-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="_Iga_zfzMakfGa9zRAI4-8">
