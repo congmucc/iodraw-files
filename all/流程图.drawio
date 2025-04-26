@@ -793,7 +793,7 @@
         <mxCell id="3PSgg7w38gKeT4iuzS_B-74" value="新闻处理信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2033" y="1616" width="138" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="3PSgg7w38gKeT4iuzS_B-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="XTIQsdw-NxHprP_zqBdj-56" target="XTIQsdw-NxHprP_zqBdj-61">
+        <mxCell id="3PSgg7w38gKeT4iuzS_B-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="XTIQsdw-NxHprP_zqBdj-56" target="XTIQsdw-NxHprP_zqBdj-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2432" y="1654" />
