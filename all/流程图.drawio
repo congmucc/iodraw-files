@@ -176,16 +176,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IWu84GvnVnbfeA6_wP9a-67" value="数据是否都处理完毕" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1343" y="745" width="290" height="67" as="geometry" />
+          <mxGeometry x="1348" y="750" width="280" height="74" as="geometry" />
         </mxCell>
         <mxCell id="IWu84GvnVnbfeA6_wP9a-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" source="IWu84GvnVnbfeA6_wP9a-69" target="IWu84GvnVnbfeA6_wP9a-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IWu84GvnVnbfeA6_wP9a-69" value="使用TextRank基础公式进行计算权重" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1342" y="530" width="290" height="72.5" as="geometry" />
+          <mxGeometry x="1343" y="543" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="IWu84GvnVnbfeA6_wP9a-70" value="根据计算得分对所有词进行输出。" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1342" y="630" width="290" height="72.5" as="geometry" />
+          <mxGeometry x="1343" y="644" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="IWu84GvnVnbfeA6_wP9a-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" source="IWu84GvnVnbfeA6_wP9a-70" target="IWu84GvnVnbfeA6_wP9a-67" edge="1">
           <mxGeometry relative="1" as="geometry">
