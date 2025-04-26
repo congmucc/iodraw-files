@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="wNZx7SyFyyRfFWTo70jK">
-    <mxGraphModel dx="2995" dy="957" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2326" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,19 +152,19 @@
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-83" value="权限管理模块" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-71" y="759" width="142" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" target="DOAJAbYyy1WLWtL5gkmH-94" edge="1">
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=20;fontStyle=1;endArrow=none;endFill=1;startFill=0;" parent="1" target="DOAJAbYyy1WLWtL5gkmH-94" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="866" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOAJAbYyy1WLWtL5gkmH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" source="DOAJAbYyy1WLWtL5gkmH-92" target="DOAJAbYyy1WLWtL5gkmH-93" edge="1">
+        <mxCell id="DOAJAbYyy1WLWtL5gkmH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=20;fontStyle=1;endArrow=none;startFill=0;" parent="1" source="DOAJAbYyy1WLWtL5gkmH-92" target="DOAJAbYyy1WLWtL5gkmH-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-92" value="日志管理模块" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="812" y="786" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-93" value="删&lt;div&gt;除&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="977" y="906" width="50" height="250" as="geometry" />
+          <mxGeometry x="966" y="906" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="DOAJAbYyy1WLWtL5gkmH-94" value="&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="906" width="50" height="250" as="geometry" />
