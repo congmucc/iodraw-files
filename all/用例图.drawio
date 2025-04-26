@@ -168,7 +168,7 @@
           <mxGeometry x="760.5" y="797" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-9" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="770.5" y="858" width="160" height="40" as="geometry" />
+          <mxGeometry x="759" y="858" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M4vis54UrrYnqnbrriGl-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="588.5" y="726" width="128" height="36" as="geometry" />
