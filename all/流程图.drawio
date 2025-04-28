@@ -811,7 +811,7 @@
             <mxPoint x="645.99" y="1573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nx-PlTTo1bfgQ3k4ozr4-56" value="新闻数据分析标注系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nx-PlTTo1bfgQ3k4ozr4-56" value="新闻数据分析与标注系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="178" y="1387.5" width="235" height="235" as="geometry" />
         </mxCell>
         <mxCell id="nx-PlTTo1bfgQ3k4ozr4-57" value="用&lt;div&gt;户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
