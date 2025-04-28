@@ -856,9 +856,6 @@
         <mxCell id="nx-PlTTo1bfgQ3k4ozr4-70" value="新闻原始信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="156" y="1288" width="138" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="nx-PlTTo1bfgQ3k4ozr4-71" value="1434.5 pt" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="9.896551724138135" y="1215.1034482758623" width="78" height="36" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
