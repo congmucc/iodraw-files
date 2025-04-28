@@ -841,8 +841,8 @@
             <mxPoint x="656.0000000000003" y="1434.4739999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nx-PlTTo1bfgQ3k4ozr4-65" value="标注分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="35" y="1395" width="98" height="36" as="geometry" />
+        <mxCell id="nx-PlTTo1bfgQ3k4ozr4-65" value="新闻分析和标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5" y="1395" width="158" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nx-PlTTo1bfgQ3k4ozr4-67" value="标注信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="35" y="1576" width="98" height="36" as="geometry" />
