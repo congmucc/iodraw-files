@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="wNZx7SyFyyRfFWTo70jK">
-    <mxGraphModel dx="2310" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3446" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,59 +268,50 @@
         <mxCell id="P7XNdEsVjHA1NqvzfbC5-8" value="增&lt;div&gt;加&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;&lt;div&gt;限&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-53" y="1010" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=16;fontStyle=1;endArrow=none;startFill=0;" edge="1" parent="1" target="D7hW578WMLDIl4Pt2IJL-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2051.25" y="1043" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=16;fontStyle=1;endArrow=none;startFill=0;" edge="1" parent="1" target="D7hW578WMLDIl4Pt2IJL-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2051.25" y="1043" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=16;fontStyle=1;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-10">
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-14">
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-13">
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;endFill=1;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-12">
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7hW578WMLDIl4Pt2IJL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2053" y="1042" />
-              <mxPoint x="1868" y="1042" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7hW578WMLDIl4Pt2IJL-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="D7hW578WMLDIl4Pt2IJL-7" target="D7hW578WMLDIl4Pt2IJL-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-7" value="&lt;span lang=&quot;ZH-CN&quot; style=&quot;text-align: start; line-height: 24px; font-family: SimHei; letter-spacing: -0.65pt;&quot;&gt;&lt;font&gt;新闻数据分析与标注系统&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1930.25" y="959" width="246" height="44" as="geometry" />
+          <mxGeometry x="1920" y="966" width="246" height="44" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-8" value="&lt;div&gt;数&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;标&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;注&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1814.25" y="1081" width="108" height="61" as="geometry" />
+          <mxGeometry x="1798" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-9" value="&lt;div&gt;数&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;采&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;集&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;与&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;处&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1445" y="1083" width="108" height="61" as="geometry" />
+          <mxGeometry x="1459" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-10" value="日&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;志&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2369.25" y="1081" width="108" height="61" as="geometry" />
+          <mxGeometry x="2397" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-11" value="&lt;div&gt;登&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;录&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;与&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;权&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;限&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2556" y="1083" width="108" height="61" as="geometry" />
+          <mxGeometry x="2556" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-12" value="&lt;div&gt;数&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;分&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;析&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1629.25" y="1081" width="108" height="61" as="geometry" />
+          <mxGeometry x="1624" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-13" value="新&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;闻&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;理&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="2184.25" y="1081" width="108" height="61" as="geometry" />
+          <mxGeometry x="2221" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-14" value="数&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;可&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;视&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;化&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1999.25" y="1081" width="108" height="61" as="geometry" />
+          <mxGeometry x="1989" y="1081" width="108" height="61" as="geometry" />
         </mxCell>
         <mxCell id="D7hW578WMLDIl4Pt2IJL-20" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;新&lt;/div&gt;&lt;div&gt;闻&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2171" y="1435" width="50" height="250" as="geometry" />
