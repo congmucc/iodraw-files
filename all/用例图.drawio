@@ -725,10 +725,10 @@
         <mxCell id="Qf7f6KWwsMUeAMiCoD2I-122" value="新闻可视化" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1432.5" y="363" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-123" value="分析关键词" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-123" value="展示新闻标注图" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1775.5" y="361" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-124" value="分析情感倾向" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-124" value="展示新闻数据分析图" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1777" y="410" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qf7f6KWwsMUeAMiCoD2I-127" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
@@ -737,8 +737,8 @@
         <mxCell id="Qf7f6KWwsMUeAMiCoD2I-130" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=5;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1632" y="382" width="128" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-131" value="分析摘要" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1775.5" y="310" width="160" height="40" as="geometry" />
+        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-131" value="展示新闻分析图" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="310" width="208.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Qf7f6KWwsMUeAMiCoD2I-132" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;fontSize=20;strokeWidth=2;" edge="1" parent="1" target="Qf7f6KWwsMUeAMiCoD2I-131" source="Qf7f6KWwsMUeAMiCoD2I-122">
           <mxGeometry relative="1" as="geometry">
