@@ -370,6 +370,9 @@
             <mxPoint x="1103" y="191" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Qf7f6KWwsMUeAMiCoD2I-7" target="Qf7f6KWwsMUeAMiCoD2I-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="Qf7f6KWwsMUeAMiCoD2I-7">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBorderColor=none;html=1;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
             <mxGeometry x="1088" y="86" width="30" height="60" as="geometry" />
@@ -385,7 +388,7 @@
             <mxPoint x="1298" y="186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-137" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Qf7f6KWwsMUeAMiCoD2I-10" target="Qf7f6KWwsMUeAMiCoD2I-122">
+        <mxCell id="Qf7f6KWwsMUeAMiCoD2I-137" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Qf7f6KWwsMUeAMiCoD2I-10" target="Qf7f6KWwsMUeAMiCoD2I-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qf7f6KWwsMUeAMiCoD2I-10" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
