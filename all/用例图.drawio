@@ -366,7 +366,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qf7f6KWwsMUeAMiCoD2I-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Qf7f6KWwsMUeAMiCoD2I-7" target="Qf7f6KWwsMUeAMiCoD2I-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1103" y="191" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="Qf7f6KWwsMUeAMiCoD2I-7">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBorderColor=none;html=1;fontStyle=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
