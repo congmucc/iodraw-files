@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.15">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3772" dy="1868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3772" dy="2268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,7 +314,7 @@
           <mxGeometry x="124" y="13" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIV2kzbjCIx-U6j8kf4C-71" value="关键词分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="630" width="80" height="30" as="geometry" />
+          <mxGeometry x="641" y="43" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIV2kzbjCIx-U6j8kf4C-72" value="摘要分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1373" y="13" width="70" height="30" as="geometry" />
@@ -991,75 +991,59 @@
           <mxGeometry x="63" y="-883" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-73" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-909" width="290" height="60" as="geometry" />
+          <mxGeometry x="785" y="-1281" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-74" style="fontStyle=1;strokeColor=default;strokeWidth=3;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-73" target="4EjAuPIRHBVwGWmJcJK_-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="845.8684210526317" y="-868" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=default;strokeWidth=3;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-84" target="4EjAuPIRHBVwGWmJcJK_-76">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint x="745" y="-178" as="sourcePoint" />
-            <mxPoint x="735" y="-708" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="710" y="-491" />
-            </Array>
+            <mxPoint x="862.8684210526317" y="-1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-76" value="从数据库中获取数据，并修改格式" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-809" width="290" height="72.5" as="geometry" />
+          <mxGeometry x="785" y="-1181" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-77" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fillColor=default;gradientColor=none;gradientDirection=north;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-76" target="4EjAuPIRHBVwGWmJcJK_-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="846" y="-578" as="targetPoint" />
-            <mxPoint x="957" y="-727" as="sourcePoint" />
+            <mxPoint x="863" y="-950" as="targetPoint" />
+            <mxPoint x="974" y="-1099" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=classic;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-79" target="4EjAuPIRHBVwGWmJcJK_-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-79" value="使用jieba分词进行对文本进行分词" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-689" width="290" height="72.5" as="geometry" />
+          <mxGeometry x="785" y="-1061" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-81" target="4EjAuPIRHBVwGWmJcJK_-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-81" value="使用BM25对文本进行向量表示" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-575" width="290" height="72.5" as="geometry" />
+          <mxGeometry x="785" y="-947" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-82" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-121" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=default;strokeWidth=3;html=1;exitDx=0;exitDy=0;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-84" target="4EjAuPIRHBVwGWmJcJK_-82">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint x="844.74" y="232" as="sourcePoint" />
-            <mxPoint x="624.74" y="-1578" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-84" value="数据是否都处理完毕" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-238" width="290" height="74" as="geometry" />
+          <mxGeometry x="787" y="-469" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-86" target="4EjAuPIRHBVwGWmJcJK_-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-86" value="使用TextRank基础公式进行计算权重" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-459" width="290" height="72.5" as="geometry" />
+        <mxCell id="4EjAuPIRHBVwGWmJcJK_-86" value="使用 KMeans 聚类算法对全部新闻文本进行聚类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-831" width="290" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-87" value="根据计算得分对所有词进行输出。" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-349" width="290" height="72.5" as="geometry" />
-        </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-88" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-87" target="4EjAuPIRHBVwGWmJcJK_-84">
+        <mxCell id="4EjAuPIRHBVwGWmJcJK_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;strokeWidth=3;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-87" target="4EjAuPIRHBVwGWmJcJK_-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-89" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="941" y="-167" width="38" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="4EjAuPIRHBVwGWmJcJK_-90" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="728" y="-241" width="38" height="36" as="geometry" />
+        <mxCell id="4EjAuPIRHBVwGWmJcJK_-87" value="提取每个聚类中心文档的高频关键词进行主题标签匹配" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-721" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="4EjAuPIRHBVwGWmJcJK_-91" value="主题分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="602" y="-1002" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4EjAuPIRHBVwGWmJcJK_-92" value="可视化与输出" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-599" width="290" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4EjAuPIRHBVwGWmJcJK_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="4EjAuPIRHBVwGWmJcJK_-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="-470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
