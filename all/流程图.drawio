@@ -40,7 +40,7 @@
             <mxPoint x="280" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHxs4oyfYH_jLCG5n1om-64" value="解析response对象，并进行数据处理获取新闻信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;shadow=0;resizable=1;" parent="1" vertex="1">
+        <mxCell id="wHxs4oyfYH_jLCG5n1om-64" value="解析response对象，并提取需要的字段获取新闻信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;gradientColor=none;gradientDirection=north;aspect=fixed;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="420" width="290" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="wHxs4oyfYH_jLCG5n1om-68" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;rounded=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;resizable=1;fillColor=default;" parent="1" vertex="1">
